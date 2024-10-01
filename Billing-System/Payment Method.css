@@ -1,0 +1,50 @@
+#overviewBox{
+
+    border: 1px solid black;
+    width: 70%;
+    min-height: 400px;
+}
+
+#payment{
+
+    border: 1px solid black;
+    width: 400px;
+    margin-top: 100px;
+    margin-right: 500px;
+    background-color: antiquewhite;
+}
+
+#maintain{
+
+    border: 1px solid black;
+    width: 400px;
+    margin-top: -70px;
+    margin-left: 500px;
+    background-color: antiquewhite;
+}
+
+#reminder{
+
+    border: 1px solid black;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: -500px;
+    background-color: antiquewhite;
+}
+
+#history{
+
+    border: 1px solid black;
+    width: 400px;
+    margin-top: -70px;
+    margin-left: 500px;
+    background-color: antiquewhite;
+}
+
+#supportBtn{
+
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 7px;
+    font-weight: bold;
+}
